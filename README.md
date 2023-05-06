@@ -6,4 +6,4 @@ Terms: https://shinesbot.org/terms
 Privacy Policy: https://shinesbot.org/privacy-policy
 -------------------------------------------
 If you break any of these statements/guidelines you will be instantly removed from the Development Team!
-Thanky you! "TuberAsk"
+Thank you! "TuberAsk"
