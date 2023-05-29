@@ -1,4 +1,5 @@
-# Shines-Bot-Official-Repository
+Shines-Bot-Official-Repository
+-----------
 The Official GitHub page for Shines Bot Developer users and Team members of Shines Bot Development™️.
 Please remember to follow our terms of usages and Privacy Polices.
 Terms: https://shinesbot.org/terms
