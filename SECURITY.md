@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+These are the supported versions for Shines Bot you will be able to use the versions with checkmarks but you will not be able to use the versions with x marks.
 
 | Version | Supported          |
 | ------- | ------------------ |
