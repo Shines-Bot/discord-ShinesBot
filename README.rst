@@ -12,3 +12,8 @@ Thank you! "TuberAsk"
 .. image:: https://img.shields.io/badge/GitHub-Shines%20Bot-yellow
    :target: https://github.com/Shines-Bot
    :alt: Shines Bot Updated Versions
+
+You will first need to do the following before starting to create a Discord Bot.
+
+.. code:: sh
+   pip -m install discord.py
