@@ -15,7 +15,7 @@ currently being supported with security updates.
 ## Reporting a Vulnerability
 
 You will be able to report a vulnerability in our Discord Server by using our Support Forums
-Please choose the "Global Support" or "Report Support" to report malware, dangerous code or users
-That you know has breaken the Terms Of Services or Privacy Policy.
+please choose the "Global Support" or "Report Support" to report malware, dangerous code or users
+that you know has breaken the Terms Of Services or Privacy Policy.
 
 Link - https://discord.gg/KgS6tRc6g3
