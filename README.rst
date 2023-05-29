@@ -16,4 +16,5 @@ Thank you! "TuberAsk"
 You will first need to do the following before starting to create a Discord Bot.
 
 .. code:: sh
+# Use any library you want!
    pip -m install discord.py
