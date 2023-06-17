@@ -10,6 +10,6 @@ Thank you! "TuberAsk"
 ==========
 
 .. image:: https://img.shields.io/badge/GitHub-Shines%20Bot-yellow
-   :target: https://github.com/Shines-Bot
+   :target: https://github.com/Console-CO
    :alt: Shines Bot Updated Versions
 
